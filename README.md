@@ -45,8 +45,8 @@ pip install numpy pandas matplotlib statsmodels seaborn
 Clone the repository and run the Jupyter Notebook:
 
 ```bash
-git clone https://github.com/your-username/electricity-forecasting.git
-cd electricity-forecasting
+git clone https://github.com/AnouskaP/Electricity-demand-estimation
+cd Electricity-demand-estimation
 jupyter notebook
 ```
 
